@@ -319,6 +319,5 @@ fetch("./data.json")
                 }
             }
         }
-        // Aquí puedes trabajar con las constantes
     });
 
